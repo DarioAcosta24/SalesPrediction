@@ -18,8 +18,11 @@ The following tools and libraries were used:
 - **Programming Language:** Python  
 - **Libraries:**  
   - `pandas`: For data manipulation and cleaning.  
-  - `matplotlib` and `seaborn`: For data visualization.  
+  - `numpy`: For numerical computations.  
+  - `matplotlib` and `seaborn`: For data visualization.
+  - `sklearn`: For model evaluation and additional machine learning utilities.  
   - `math`: For additional mathematical operations.
+
 
 ---
 
